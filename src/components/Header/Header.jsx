@@ -3,7 +3,7 @@
 const Header = () => {
   return (
         <div
-    className="hero min-h-[50vh] "
+    className="hero min-h-[50vh]"
     style={{
         backgroundImage: "url(https://t3.ftcdn.net/jpg/00/67/70/40/360_F_67704008_fxdmJ8wDOqDYts9P3tzdbxqZf8NfWT21.jpg)",
     }}>

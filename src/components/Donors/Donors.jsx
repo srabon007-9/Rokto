@@ -17,7 +17,7 @@ const Donors = () => {
   return (
     
 
-    <div className="grid md:grid-cols-3 gap-4">
+    <div className="grid md:grid-cols-3 gap-4 w-11/12 mx-auto mt-4">
       {
         datas.map(data => <Donor key={data.id} donor={data}></Donor>)
       }
